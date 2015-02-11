@@ -22,4 +22,6 @@
 Vermutlich mit RaspberyPi aber noch keine genauen vorstellungen.
 
 ## Quelle
-[Adafruit NeoPixel Überguide](https://learn.adafruit.com/adafruit-neopixel-uberguide?view=all) 
++ [Adafruit NeoPixel Überguide Arduino](https://learn.adafruit.com/adafruit-neopixel-uberguide?view=all)
++ [Adafruit NeoPixel Überguide RaspberryPi](https://learn.adafruit.com/neopixels-on-raspberry-pi?view=all)
++ [Arduino Ethernet Tutorial](http://startingelectronics.com/tutorials/arduino/ethernet-shield-web-server-tutorial/)
