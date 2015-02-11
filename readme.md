@@ -1,5 +1,5 @@
 # StehLight
-## Vorbereitun
+## Vorbereitung
 ### Einkaufsliste
 * WS2812B 1m 60 LEDs (ca 20 €, Ebay)
 * Netzteil 5V-/4A (7,95 € , [Pollin](http://www.pollin.de/shop/dt/MDY0ODQ2OTk-/Stromversorgung/Netzgeraete/Steckernetzgeraete/Steckernetzteil_QUATPOWER_PSN5_4000H5_5_5_V_4_A_5_5_2_1_mm.html))
@@ -12,6 +12,14 @@
 * Arduino IDE
 * Adafruit NeoPixel Libary
 
+### sonst noch?
+* Litzen (habe 0,34² cm verwendet)
+* Lötset
+
+## Teil 1: alles zusammensetzen
+## Teil 2: Programmierung
+## Teil 3: Steuerung über Webseite
+Vermutlich mit RaspberyPi aber noch keine genauen vorstellungen.
 
 ## Quelle
 [Adafruit NeoPixel Überguide](https://learn.adafruit.com/adafruit-neopixel-uberguide?view=all) 
